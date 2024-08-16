@@ -1,3 +1,8 @@
+![Screenshot 2024-08-16 213839](https://github.com/user-attachments/assets/808eb486-52ae-4206-8ffd-091e3c199f07)
+
+Calculator project using react.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
